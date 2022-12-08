@@ -9,7 +9,7 @@ Firstly, you need to connect your wallet and if your address is whitelisted, you
 ELSE you need to wait for the presale to end before you can buy Crypto Devs NFT.
 
 The contract is hosted with vercel app on:
-<b> </b>
+<b>https://nft-collection-beta-wheat-71.vercel.app/</b>
 
 Try running some of the following tasks on the contract (hardhat-tutorial) directory:
 
